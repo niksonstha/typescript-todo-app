@@ -22,6 +22,7 @@ const TodoInputBox = () => {
       addTodoHandler();
     }
   };
+
   return (
     <Box width={"100%"} display={"flex"} gap={5} alignItems={"center"}>
       <input
